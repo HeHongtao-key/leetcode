@@ -1,4 +1,4 @@
-package SameTree;
+package BinaryTreeLevelOrderTraversal;
 
 public class TreeNode {
     int val;
